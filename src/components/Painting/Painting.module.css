@@ -1,0 +1,36 @@
+﻿.card {
+    box-shadow: 1px 2px 16px 3px grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.info {
+    padding: 15px;
+}
+.title {
+    margin: 0;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.text {
+    font-size: 18px;
+}
+.price {
+    font-weight: 800;
+}
+.button {
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    border: none;
+   background: linear-gradient(to right, #4ac29a, #bdfff3, #cbb4d4, #C33764);
+   cursor: pointer;
+   font-weight: 600;
+   transition: scale 200ms linear;
+}
+.button:hover {
+    scale: calc(1.07);
+}
+.img {
+    margin: 0;
+    padding: 0;
+}

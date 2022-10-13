@@ -1,0 +1,14 @@
+﻿.title {
+    margin: 0;
+    text-align: center;
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    margin-bottom: 50px;
+}
+.container {
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+}

@@ -1,0 +1,137 @@
+﻿[
+    
+    {
+    "id": "1",
+    "title": "dog",
+    "price": 100,
+    "author": {
+        "name": "hercules",
+        "url": "google.com"
+    },
+    "img": "https://preview.redd.it/yai2xi0lraw81.jpg?width=640&crop=smart&auto=webp&s=6bff00befbcffa2059e22e452c54ee2bf195cd7b",
+    "quantity": 1
+},
+
+{
+    "id": "2",
+    "title": "cat",
+    "price": 180,
+    "author": {
+        "name": "hercules",
+        "url": "google.com"
+    },
+    "img": "https://papik.pro/uploads/posts/2021-09/1631811281_6-papik-pro-p-krasivie-risunki-akvarelyu-6.jpg",
+    "quantity": 4
+},
+{
+    "id": "3",
+    "title": "bird",
+    "price": 200,
+    "author": {
+        "name": "rose",
+        "url": "google.com"
+    },
+    "img": "https://schtirlitz.ru/wp-content/uploads/risunki-akvarelyu-foto_62.jpg",
+    "quantity": 12
+},
+{
+    "id": "4",
+    "title": "fox",
+    "price": 190,
+    "author": {
+        "name": "did",
+        "url": "google.com"
+    },
+    "img": "https://rus-pic.ru/wp-content/uploads/2021/08/9f0b6175b8cd8d47769feea319fff496.jpg",
+    "quantity": 16
+},
+{
+    "id": "5",
+    "title": "girl",
+    "price": 210,
+    "author": {
+        "name": "man",
+        "url": "google.com"
+    },
+    "img": "https://funpick.ru/wp-content/uploads/2017/11/Akvarelyu-2.jpg",
+    "quantity": 7
+},
+{
+    "id": "6",
+    "title": "flowers",
+    "price": 250,
+    "author": {
+        "name": "cat11",
+        "url": "google.com"
+    },
+    "img": "https://kartinkin.net/uploads/posts/2022-03/1646323146_1-kartinkin-net-p-akvarelnie-kartinki-1.jpg",
+    "quantity": 4
+},
+{
+    "id": "7",
+    "title": "lake",
+    "price": 300,
+    "author": {
+        "name": "vangog",
+        "url": "google.com"
+    },
+    "img": "https://papik.pro/uploads/posts/2021-09/1630959983_11-papik-pro-p-risunki-prirodi-akvarelyu-11.jpg",
+    "quantity": 4
+},
+{
+    "id": "8",
+    "title": "field",
+    "price": 210,
+    "author": {
+        "name": "lili",
+        "url": "google.com"
+    },
+    "img": "https://papik.pro/uploads/posts/2021-09/1630967067_11-papik-pro-p-risunok-akvarel-leto-12.jpg",
+    "quantity": 6
+},
+{
+    "id": "9",
+    "title": "night sky",
+    "price": 180,
+    "author": {
+        "name": "sem",
+        "url": "google.com"
+    },
+    "img": "https://i.pinimg.com/originals/90/2f/e0/902fe0f8bcb61713d71b597e4b14e698.jpg",
+    "quantity": 10
+},
+{
+    "id": "10",
+    "title": "tree",
+    "price": 220,
+    "author": {
+        "name": "den",
+        "url": "google.com"
+    },
+    "img": "https://papik.pro/uploads/posts/2021-09/1631811304_24-papik-pro-p-krasivie-risunki-akvarelyu-24.jpg",
+    "quantity": 2
+},
+{
+    "id": "11",
+    "title": "colors",
+    "price": 100,
+    "author": {
+        "name": "rose",
+        "url": "google.com"
+    },
+    "img": "https://flomaster.club/uploads/posts/2022-06/1655532992_1-flomaster-club-p-kartina-akvarelyu-dlya-nachinayushchikh-kr-1.jpg",
+    "quantity": 12
+},
+{
+    "id": "12",
+    "title": "house",
+    "price": 170,
+    "author": {
+        "name": "jess",
+        "url": "google.com"
+    },
+    "img": "https://cs2.livemaster.ru/storage/39/a2/450f68266fa961041d5c4b0fe3e8--kartiny-i-panno-kartina-akvarelyuleto-tsvety-vozle-doma-21-na.jpg",
+    "quantity": 18
+}
+
+]
