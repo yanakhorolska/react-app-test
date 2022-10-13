@@ -2,10 +2,11 @@
 import defaultImage from './default-thumbnail.jpg';
 import css from './Painting.module.css'
 
-export default function Painting({ img = defaultImage, title, authorUrl, authorName = "не відомо", price, quantity }) {
+export default function Painting({ img = defaultImage, title, authorUrl, authorName = "не відомо", price, quantity, type }) {
   
   return (
     <div className={css.card}>
+      <div className={`${css.chip} ${css[type]}`}>{type}</div>
       <img className={css.img} src={img} alt={title} width="400" height="500" />
       <div className={css.info}>
         <h2 className= {css.title}>"{title}"</h2>

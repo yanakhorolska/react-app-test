@@ -9,7 +9,8 @@
         "url": "google.com"
     },
     "img": "https://preview.redd.it/yai2xi0lraw81.jpg?width=640&crop=smart&auto=webp&s=6bff00befbcffa2059e22e452c54ee2bf195cd7b",
-    "quantity": 1
+    "quantity": 1,
+    "type": "animals"
 },
 
 {
@@ -21,7 +22,8 @@
         "url": "google.com"
     },
     "img": "https://papik.pro/uploads/posts/2021-09/1631811281_6-papik-pro-p-krasivie-risunki-akvarelyu-6.jpg",
-    "quantity": 4
+    "quantity": 4,
+    "type": "animals"
 },
 {
     "id": "3",
@@ -32,7 +34,8 @@
         "url": "google.com"
     },
     "img": "https://schtirlitz.ru/wp-content/uploads/risunki-akvarelyu-foto_62.jpg",
-    "quantity": 12
+    "quantity": 12,
+    "type": "animals"
 },
 {
     "id": "4",
@@ -43,7 +46,8 @@
         "url": "google.com"
     },
     "img": "https://rus-pic.ru/wp-content/uploads/2021/08/9f0b6175b8cd8d47769feea319fff496.jpg",
-    "quantity": 16
+    "quantity": 16,
+    "type": "animals"
 },
 {
     "id": "5",
@@ -54,7 +58,8 @@
         "url": "google.com"
     },
     "img": "https://funpick.ru/wp-content/uploads/2017/11/Akvarelyu-2.jpg",
-    "quantity": 7
+    "quantity": 7,
+    "type": "people"
 },
 {
     "id": "6",
@@ -65,7 +70,8 @@
         "url": "google.com"
     },
     "img": "https://kartinkin.net/uploads/posts/2022-03/1646323146_1-kartinkin-net-p-akvarelnie-kartinki-1.jpg",
-    "quantity": 4
+    "quantity": 4,
+    "type": "nature"
 },
 {
     "id": "7",
@@ -76,7 +82,8 @@
         "url": "google.com"
     },
     "img": "https://papik.pro/uploads/posts/2021-09/1630959983_11-papik-pro-p-risunki-prirodi-akvarelyu-11.jpg",
-    "quantity": 4
+    "quantity": 4,
+    "type": "nature"
 },
 {
     "id": "8",
@@ -87,7 +94,8 @@
         "url": "google.com"
     },
     "img": "https://papik.pro/uploads/posts/2021-09/1630967067_11-papik-pro-p-risunok-akvarel-leto-12.jpg",
-    "quantity": 6
+    "quantity": 6,
+    "type": "nature"
 },
 {
     "id": "9",
@@ -98,7 +106,8 @@
         "url": "google.com"
     },
     "img": "https://i.pinimg.com/originals/90/2f/e0/902fe0f8bcb61713d71b597e4b14e698.jpg",
-    "quantity": 10
+    "quantity": 10,
+    "type": "nature"
 },
 {
     "id": "10",
@@ -109,7 +118,8 @@
         "url": "google.com"
     },
     "img": "https://papik.pro/uploads/posts/2021-09/1631811304_24-papik-pro-p-krasivie-risunki-akvarelyu-24.jpg",
-    "quantity": 2
+    "quantity": 2,
+    "type": "nature"
 },
 {
     "id": "11",
@@ -120,7 +130,8 @@
         "url": "google.com"
     },
     "img": "https://flomaster.club/uploads/posts/2022-06/1655532992_1-flomaster-club-p-kartina-akvarelyu-dlya-nachinayushchikh-kr-1.jpg",
-    "quantity": 12
+    "quantity": 12,
+    "type": "nature"
 },
 {
     "id": "12",
@@ -131,7 +142,8 @@
         "url": "google.com"
     },
     "img": "https://cs2.livemaster.ru/storage/39/a2/450f68266fa961041d5c4b0fe3e8--kartiny-i-panno-kartina-akvarelyuleto-tsvety-vozle-doma-21-na.jpg",
-    "quantity": 18
+    "quantity": 18,
+    "type": "nature"
 }
 
 ]

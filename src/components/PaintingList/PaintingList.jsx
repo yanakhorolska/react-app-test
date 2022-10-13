@@ -13,6 +13,7 @@ export default function PaintingList({ items }) {
                         authorUrl={item.author.url}
                         img={item.img}
                         quantity={item.quantity}
+                        type={item.type}
                     />
                 </li>
             ))}
