@@ -13,6 +13,9 @@
     text-align: center;
 }
 .text {
+    display: flex;
+    align-items: center;
+    gap: 8px;
     font-size: 18px;
 }
 .price {
@@ -51,4 +54,7 @@
 }
 .nature {
     background-color:rgb(208, 69, 239);
+}
+.icon {
+    color: #4ac29a;
 }
